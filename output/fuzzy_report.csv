@@ -1,0 +1,3 @@
+﻿query,tuid,source_segment,target_segment,score,lev_ratio,token_sort_ratio,match_type
+Sarcopenia screening in primary care: opportunities and limitations,2,Sarcopenia screening in primary care: opportunities and limitations,Скрининг саркопении на первичном этапе: возможности и ограничения,100.0,100.0,100.0,ICE (101%)
+...in which muscle strength serves as the main criterion and physical performance as an indicator of disease severity.,4,...in which muscle strength serves as the primary criterion and physical performance as an indicator of disease severity.,"...в которых мышечная сила служит первичным критерием, а физическая работоспособность – показателем тяжести.",95.73,95.73,88.89,High Fuzzy
